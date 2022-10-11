@@ -12,9 +12,12 @@
 * https://github.com/zebook/zebook
 * https://www.academia.edu
 * https://bookboon.com
+* https://github.com/lossme/TencentComicBook 
 * https://www.free-ebooks.net/
 * http://freecomputerbooks.com
-*  https://issuu.com
+* https://issuu.com
+* http://www.tupwk.com.cn/downpage/
+
 
 ### 文档文库
 
@@ -25,6 +28,7 @@
 * http://wenku.bemfa.com
 * http://hiwenku.com
 * http://39.108.149.27:9999/
+* http://qingwendang.com/
 * <i>[YHI](https://shui.azurewebsites.net/bdwk/)</i>
 
 ### 附

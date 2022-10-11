@@ -10,10 +10,20 @@ https://bigjpg.com/
 ### favicon.ico
 
 * http://www.easyicon.net
+* http://www.zhutizhijia.net/sbzz/
+* http://www.xitongzhijia.net/sbzz/2001.html
 
 ### 图片转为ASCII
+
+* http://patorjk.com/software/taag
+* http://www.network-science.de/ascii
 * http://picascii.com
 * http://www.makepic.net/Tool/Image2ascii.html
+* http://www.degraeve.com/img2txt.php
+* http://life.chacuo.net/convertphoto2char
+* http://asciiflow.com
+* https://tools.kalvinbg.cn/
+
 
 ### 图床
 
@@ -33,6 +43,7 @@ https://bigjpg.com/
 * https://shields.io/
 * https://emojipedia.org/ 
 * https://getemoji.com
+* https://github.com/FortAwesome/Font-Awesome
 
 ### PPT模板
 

@@ -1,9 +1,9 @@
 # ***w3-goto-world***（冲出你的窗口）
 
-[![blog](https://img.shields.io/badge/%F0%9F%94%97blog-hoochanlon-lightgrey.svg?longCache=true&style=flat-square)](https://hoochanlon.github.io/) [![outlook](https://img.shields.io/badge/%F0%9F%93%A7hotmail-@邮箱联系-blue.svg?longCache=true&style=flat-square)](mailto:hoochanlon@outlook.com) [![telegram](https://img.shields.io/badge/telegram-:me-blue.svg?longCache=true&style=flat-square)](https://t.me/hoochanlon) [![stars](https://img.shields.io/github/stars/hoochanlon/w3-goto-world.svg?style=social)](https://github.com/hoochanlon/w3-goto-world)
+[![blog](https://img.shields.io/badge/%F0%9F%94%97blog-hoochanlon-lightgrey.svg?longCache=true&style=flat-square)](https://hoochanlon.github.io/) [![outlook](https://img.shields.io/badge/%F0%9F%93%A7hotmail-@邮箱联系-blue.svg?longCache=true&style=flat-square)](mailto:hoochanlon@outlook.com) [![telegram](https://img.shields.io/badge/telegram-:me-blue.svg?longCache=true&style=flat-square)](https://t.me/hoochanlon) [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)[![stars](https://img.shields.io/github/stars/hoochanlon/w3-goto-world.svg?style=social)](https://github.com/hoochanlon/w3-goto-world)
 
 
-![冲出你的窗口](https://raw.githubusercontent.com/hoochanlon/w3-goto-world/master/.github/%E5%86%B2%E5%87%BA%E4%BD%A0%E7%9A%84%E7%AA%97%E5%8F%A3.png)
+![冲出你的窗口](https://s3.jpg.cm/2020/07/16/Uu9br.png)
 
 <h1 align="center"> 免责声明 </h1>
 
@@ -34,78 +34,12 @@
 * [软件分享及网页备份](软件分享及网页备份/)
 * [集成实用夹](集成实用夹/)
 * [科学上网、暗网、零网](科学上网、暗网、零网/)
-
-## 友情小推广
-
-**欢迎关注 [ssrshare](https://www.ssrshare.com/)  及支持 free-ss.site 站长的 [github/free-ss.site](https://github.com/free-ss/free-ss.site)  项目，同时也自推广文章** ***[apachecn/TI-Analysis](https://github.com/apachecn/TI-Analysis)、[apachecn/zufang-note](https://github.com/apachecn/zufang-note)***  😀
-
-
-<!--
+* [有趣的东西(致郁)](1%20有趣的东西(致郁)/)
+* [如何阅读一本书？](2%20如何阅读一本书？/)
+* [高效学习(考试)](2.1%20高效学习/)
+* [控制分配思考（治愈）](3%20控制分配思考（治愈）/)
+* [面对焦虑的行动](4%20面对焦虑的行动/)
 
 
-<a href="https://github.com/zc-zh-001">
-    <img src="https://avatars3.githubusercontent.com/u/34836102?s=400&v=4" width="50px">
-</a> 
+有趣的东西其实是思想观点聚流，但需要具备较强的独立深度思考能力，把所见所闻信息转化为自己受用的知识；期间还要考虑人文环境及时势、概率、谬误偏差等，这本身就是困难的一件事。另外附上：https://github.com/hoochanlon/tetyou ，其中一些读书笔记目录，也是对社会人情的总结。
 
-<a href="https://github.com/xiaomingdaily">
-    <img src="https://avatars0.githubusercontent.com/u/17198976?s=400&v=4" width="50px">
-</a>
-
-<a href="https://github.com/the0demiurge">
-    <img src="https://avatars2.githubusercontent.com/u/11363529?s=400&v=4" width="50px">
-</a>
-
-<a href="https://github.com/zebook">
-    <img src="https://avatars2.githubusercontent.com/u/37998749?s=400&v=4" width="50px">
-</a> 
-
-<a href="https://github.com/onplus">
-    <img src="https://avatars0.githubusercontent.com/u/31188782?s=400&v=4" width="50px">
-</a>
-
-
-<a href="https://www.youtube.com/channel/UClceV39J1Z_9D4_mHkBZrMg">
-    <img src="https://yt3.ggpht.com/a-/AN66SAyME4VUGayP4FFwaOXZ6Y--vhZco5ur2o1GAw=s288-mo-c-c0xffffffff-rj-k-no" width="50px">
-</a>
-
-<a href="https://www.youtube.com/channel/UCKLhwl-rqnv1PhbYVekDGkg">
-    <img src="https://yt3.ggpht.com/a-/AAuE7mAW-yhARUMn32Z0uADVPFuCuitGSC2NH4KEug=s288-mo-c-c0xffffffff-rj-k-no" width="50px">
-</a>
-
-<a href="https://www.ssrshare.com/threads/pac.527/">
-    <img src="https://www.ssrshare.com/data/avatars/l/0/1.jpg?1519809172" width="50px">
-</a> 
-
-<a href="https://github.com/jasonliul">
-    <img src="https://avatars2.githubusercontent.com/u/2461165?s=400&v=4" width="50px">
-</a>
-
-<a href="https://github.com/AmazingDM">
-    <img src="https://avatars3.githubusercontent.com/u/10679055?s=400&v=4" width="50px">
-</a>
-
-<a href="https://github.com/rrn21833">
-    <img src="https://avatars2.githubusercontent.com/u/37966911?s=400&v=4" width="50px">
-</a>
-
-<a href="https://github.com/kilofox">
-    <img src="https://avatars0.githubusercontent.com/u/1018625?s=400&v=4" width="50px">
-</a>
-
-<a href="https://github.com/max2max">
-    <img src="https://avatars1.githubusercontent.com/u/14960653?s=400&v=4" width="50px">
-</a>
-
-<a href="https://github.com/w568w">
-    <img src="https://avatars3.githubusercontent.com/u/8389787?s=400&v=4" width="50px">
-</a>
-
-<a href="https://github.com/myie9">
-    <img src="https://avatars1.githubusercontent.com/u/6618073?s=400&v=4" width="50px">
-</a>
-
-<a href="https://github.com/hoodiearon">
-    <img src="https://avatars1.githubusercontent.com/u/35732922?s=400&u=860437c0da02d577fdd546c8f3bfd305539c388f&v=4" width="50px">
-</a>
-
--->

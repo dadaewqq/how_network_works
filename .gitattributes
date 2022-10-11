@@ -1,0 +1,2 @@
+*.js linguist-language=java;
+*.v linguist-language=java;
